@@ -7,4 +7,4 @@ Check [philippstephan.de](https://philippstephan.de) for more.
 
 For [Master's thesis](https://vamp.philippstephan.de) I worked on improving a numerical integration algortithm, and implemented in Python.
 The field of numerical computation continues to interest me, and I would like to get more into it.
-While I enjoy Python very much, I am working an toy projects to hone my C++ skills again.
+While I enjoy Python very much, I am working on toy projects to hone my C++ skills again.
